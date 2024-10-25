@@ -1,4 +1,4 @@
-# Mine-FLix
+# Minecraft-FLix
 body {
     color: white;
     background: black;
